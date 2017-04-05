@@ -13,6 +13,8 @@
 <!-- Optional theme -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
 
+<link rel="stylesheet" href="{!! asset('css/main.css') !!}">
+
 <!--
 
   <link rel="stylesheet" href="css/styles.css?v=1.0">
@@ -34,7 +36,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">Parqueadero Rayo Carro - @yield('titulo')</a>
+          <a class="navbar-brand" href="#">Hoja de vida - @yield('titulo')</a>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
