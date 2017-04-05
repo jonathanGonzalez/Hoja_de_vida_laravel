@@ -15,9 +15,9 @@ class PrincipalController extends Controller
     {
         return view('principal/personal');
     }
-    public function academica()
+    public function academico()
     {
-        return view('principal/academica');
+        return view('principal/academico');
     }
     public function laboral()
     {

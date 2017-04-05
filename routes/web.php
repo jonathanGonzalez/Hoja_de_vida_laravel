@@ -12,5 +12,10 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('principal/index');
 });
+
+Route::get('principal/index', 'PrincipalController@index');
+Route::get('principal/personal', 'PrincipalController@personal');
+Route::get('principal/academico', 'PrincipalController@academico');
+Route::get('principal/laboral', 'PrincipalController@laboral');
