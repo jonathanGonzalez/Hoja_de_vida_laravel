@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
 
-  <title>Rayo carro</title>
+  <title>Jhonathan González Aguirre</title>
   <meta name="description" content="primer aplicacion laravel">
   <meta name="author" content="jga">
   <!-- Latest compiled and minified CSS -->

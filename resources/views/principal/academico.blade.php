@@ -11,7 +11,10 @@ active
 @stop
 @section('contenido')
 
-<div class="container">    
+<div class="container"> 
+    <div class="page-header text-center">
+		<h1 id="">Información académica</h1>
+	</div>    
 	<div id="timeline"><div class="row timeline-movement timeline-movement-top">
     <div class="timeline-badge timeline-future-movement">
         <a href="#">

@@ -12,7 +12,9 @@ active
 @stop
 
 @section('contenido')
-
+<div class="page-header text-center">
+    <h1 id="">Hoja de vida</h1>
+</div>
 <div class="col-md-3 col-md-offset-2">
     <img class="img-responsive thumbnail" src="{!! asset('img/jhonathan.jpg') !!}" alt="Jhonathan G A">
 </div>
